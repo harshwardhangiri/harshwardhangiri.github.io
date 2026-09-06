@@ -2,12 +2,12 @@
 
 Personal homepage of Harshwardhan Giri Goswami, Aerospace Engineering student at IIT Kanpur working on UAVs, autonomous systems, and robotics.
 
-Built as a static site (plain HTML, CSS, and JavaScript — no build step) and hosted on GitHub Pages.
+Built as a static site (plain HTML and CSS — no build step) and hosted on GitHub Pages.
 
 ## Structure
 - `index.html` — page content
 - `styles.css` — styling
-- `script.js` — scroll reveals, project links, and the social bar
+- `img/` — project photos and dashboards
 - `Harshwardhan_Giri_Goswami_CV.pdf` — CV linked from the hero
 
 ## Run locally
